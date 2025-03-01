@@ -1,2 +1,2 @@
 # Projectile-Motion-W-Air-Friction
-This Jupyter Notebook shows the meethod of analyzing projectile motion with air friction in a general case, as well as using real-life objects such as a golf ball and soccer ball. 
+This Jupyter Notebook shows the meethod of analyzing projectile motion with air friction in a general case, as well as using real-life objects such as a golf ball and soccer ball. The project idea as well as the method of solving the differential equation, and most the expressions and equations used are also referenced and followed from the following YouTube video: https://youtu.be/b9S_L1AaJNw?si=cALhzdm5SaghnIY5 
